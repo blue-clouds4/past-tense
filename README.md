@@ -1,4 +1,4 @@
-#Game Summary: "PAST TENSE"
+# Game Summary: "PAST TENSE"
 
 Genre: Interactive Detective Mystery Adventure
 Programming Language: Python
@@ -6,18 +6,18 @@ Programming Language: Python
 Overview:
 "PAT TENSE" is an interactive, text-based mystery game where players step into the shoes of a young detective searching for their missing mentor, Alistair Quinn. As you explore Alistair’s office and follow the trail of cryptic clues he left behind, you’ll uncover secrets, face moral dilemmas, and confront the ultimate question: Can you trust yourself?
 
-#Key Features:
+# Key Features:
 
-  -Dynamic Storytelling:
+  - Dynamic Storytelling:
     The game adapts to your choices, shaping the narrative based on your decisions. Your actions influence your character’s emotional state and personality traits, such as paranoia, overconfidence, and self-doubt.
 
-  -Puzzles & Riddles:
+  - Puzzles & Riddles:
     Solve ciphers, riddles, and mysteries to progress through the game. Pay attention to details, as Alistair’s clues are as enigmatic as they are essential.
 
-  -Psychological Themes:
+  - Psychological Themes:
     The game delves into the darker aspects of trust and self-perception, challenging you to navigate a story where the greatest danger may lie within.
 
-  -Multiple Endings:
+  - Multiple Endings:
     Your choices determine how the story unfolds, leading to different endings that reflect your journey and decisions.
 
 Gameplay Highlights:
@@ -48,3 +48,14 @@ A work-in-progress, but playable with engaging storylines and puzzles.
 
 the game has 2 versions, stable but less features. unstable(jugaad) but cooler. the entire thing is in cli made by harsha(me), vaishnavi, lakshmi.
 this was made in a game jam called counterspell.
+
+some of the art we couldnt include made by lakshmi:
+![bar](https://github.com/user-attachments/assets/dc8c7d92-3462-4819-8932-22123cd5e946)
+![cool](https://github.com/user-attachments/assets/c901a6c6-3d40-45d2-93d4-42dd32339cc9)
+![uncool](https://github.com/user-attachments/assets/5d1576c5-2b43-40c2-b1f7-d793b3927417)
+
+
+
+how it runs:
+![image](https://github.com/user-attachments/assets/f6960b02-c5cc-402c-9cf6-a2f438c7f4ac)
+
