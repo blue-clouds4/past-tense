@@ -59,3 +59,8 @@ some of the art we couldnt include made by lakshmi:
 how it runs:
 ![image](https://github.com/user-attachments/assets/f6960b02-c5cc-402c-9cf6-a2f438c7f4ac)
 
+
+
+
+
+pain.py in jugaad folder is unstable(barely usbale i assume). just run core.py in pycharm
